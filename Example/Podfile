@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AppleLogin_Example' do
+  pod 'AppleLogin', :path => '../'
+
+  target 'AppleLogin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

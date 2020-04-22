@@ -1,0 +1,16 @@
+PODS:
+  - AppleLogin (0.1.0)
+
+DEPENDENCIES:
+  - AppleLogin (from `../`)
+
+EXTERNAL SOURCES:
+  AppleLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppleLogin: 78e5501d2b06b8985f3838c30b0a1ab9afe9d549
+
+PODFILE CHECKSUM: 8146bd2109d1954d1f1755c05d819d57fb8f060c
+
+COCOAPODS: 1.9.1
